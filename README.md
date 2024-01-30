@@ -1,27 +1,29 @@
 # MERN Stack - Build a social media app 
 > MERN Stack Build  a social media app (instagram , facebook, twitter clone) with MERN  + Redux  + Bootstrap 4
 
-## Author: Dev A.T Viet Nam
 
-## Youtube tutorials: https://www.youtube.com/watch?v=DLtVKgkCKx8&list=PLs4co9a6NhMyAfSnDg1MKGwLdLx0OA07d
+## Screenshots
 
-## Install dependencies for server 
-### `npm install`
+Login
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(1).png?raw=true)
 
-## Install dependencies for client
-### cd client ---> `npm install`
+Register
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(11).png?raw=true)
 
-## Connect to your mongodb and add info in .env
+Home
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(3).png?raw=true)
 
-## Run the client & server with concurrently
-### `npm run dev`
+Notifications
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(5).png?raw=true)
 
-## Run the Express server only
-### `npm run server`
+Chat with Audio and video call
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(6).png?raw=true)
 
-## Run the React client only
-### `npm run client`
+Discover 
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(7).png?raw=true)
 
-### Server runs on http://localhost:5000 and client on http://localhost:3000
+Profile
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(8).png?raw=true)
 
-
+Profile Edit
+![App Screenshot](https://github.com/Abhip32/Instagram-MERN-Clone/blob/main/screenshots/screenshot%20(9).png?raw=true)
